@@ -69,4 +69,4 @@
 - **Free-to-play/Live Service** games account for approximately **26.45%** of positive reviews while **Buy-to-play** got the majority with **73.55%** in positive reviews.
 
 # Visualization
-![Visualization](C:\Users\User\OneDrive - Cambrian College\Desktop\DataAnalystProject\Steam_Games_Insight\Dashboard 1.png)
+
