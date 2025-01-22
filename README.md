@@ -2,7 +2,7 @@
 # Project Overview
 # Introduction
 
-- The idea of the project came up to me a few weeks before The Game of The Year Awards event. It was my curiousity to see which developers, and publishers are more favorable in the players and consumers eyes. 
+- The idea of the project came up to me a few weeks before The Game of The Year Awards event. It was my curiosity to see which developers, and publishers are more favorable in the players and consumers eyes. 
 - This project was me attempting to implementing what i have learned previously, which includes me scraping the data from an API, clean up the data, explore the data, and visualize the insight i have found inside the data.
 
 # Technology Uses
@@ -39,7 +39,7 @@
 # Project Overview
 # Introduction
 
-- The idea of the project came up to me a few weeks before The Game of The Year Awards event. It was my curiousity to see which developers, and publishers are more favorable in the players and consumers eyes. 
+- The idea of the project came up to me a few weeks before The Game of The Year Awards event. It was my curiosity to see which developers, and publishers are more favorable in the players and consumers eyes. 
 - This project was me attempting to implementing what i have learned previously, which includes me scraping the data from an API, clean up the data, explore the data, and visualize the insight i have found inside the data.
 
 # Technology Uses
@@ -70,3 +70,4 @@
 
 # Visualization
 
+![Image](https://github.com/user-attachments/assets/e2f26917-c167-4d84-8d5c-de26fc6b418e)
